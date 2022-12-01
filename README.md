@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Jules Druelle </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+to+you+and+welcome+to+my+profile!&hearts;++;Full-Stack+Developer,;Computer+Science+Engineer,;Newbie in Reverse Engineering,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&center=true&vCenter=true&width=435&lines=Hello+and+welcome+to+my+profile+!%F0%9F%91%8B;Full+Stack+Developer;Computer+Science+Engineer;Newbie+in+Reverse+Engineering;Active+Learner%2FReseacher;Love+to+learn+new+stuffs+!%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 
