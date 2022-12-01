@@ -108,8 +108,8 @@
 <div align="center">
 
 <a href="https://github.com/Nobsow/">
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nobsow&show_icons=true&hide=stars,prs,contribs&include_all_commits=true&theme=dracula&hide_border=true" alt="Nobsow's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobsow&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+  <img src="https://github-readme-stats.vercel.app/api?username=Nobsow&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobsow&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Nobsow"/>
 
 </a>
 </div>
