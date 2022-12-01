@@ -20,7 +20,7 @@
 - A passionate Self-taught Full Stack Developer
 - Every day is a learning day ! I'm mainly focus on Web Development
 - Discovering the world of reverse engineering, current rank : Newbie 👶
-- I would like to contribute to the development of an MITM project, potential collaborator message me ☎️
+- I would like to contribute to MITM project, potential collaborator message me ☎️
 <!--- Personal website [link](https://www.0xabdulkhalid.ml) -->
 - I’m currently open for new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
@@ -107,9 +107,9 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/Nobsow/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nobsow&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobsow&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Nobsow"/>
 
 </a>
 </div>
@@ -123,7 +123,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Nobsow/Nobsow/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
