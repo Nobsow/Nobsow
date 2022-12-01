@@ -97,7 +97,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -110,7 +110,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/Nobsow/Nobsow/main/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b><img src="https://raw.githubusercontent.com/Nobsow/Nobsow/main/raw/main/assets/mdImages/handshake.gif" width ="55"> Let's Connect..!</b>
 <br>
 <div align='left'>
 
