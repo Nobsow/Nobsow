@@ -20,7 +20,7 @@
 - A passionate Self-taught Full Stack Developer
 - Every day is a learning day ! I'm mainly focus on Web Development
 - Discovering the world of reverse engineering, current rank : Newbie 👶
-- I would like to contribute to the development of an MITM project, potential collaborator message me 👋📨
+- I would like to contribute to the development of an MITM project, potential collaborator message me ☎️
 <!--- Personal website [link](https://www.0xabdulkhalid.ml) -->
 - I’m currently open for new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
@@ -38,6 +38,10 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Typescript](https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML%20-%2314354C.svg?style=for-the-badge&logo=html&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS%20-%2314354C.svg?style=for-the-badge&logo=css&logoColor=white)
 
 <br>   
     
