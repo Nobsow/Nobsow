@@ -108,7 +108,7 @@
 <br>
 <div align='left'>
 
-<ul style="list-style-type: none">
+<ul list-style-type=none>
 
 <li>
 <a href="https://www.linkedin.com/in/jules-drll/" target="_blank">
