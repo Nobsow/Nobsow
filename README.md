@@ -114,6 +114,6 @@
 <a href="mailto:jules.drlle@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Jules%20Druelle-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 <br/>
-<a href="[mailto:jules.drlle@gmail.com](https://calendly.com/jules-drlle/30min?month=2022-12)" target="_blank">
+<a href="https://calendly.com/jules-drlle/30min" target="_blank">
 <img src="https://img.shields.io/badge/calendly:%20%20Jules%20Druelle-%23EA4335.svg?style=for-the-badge&color=006BFF" alt=calendly style="margin-bottom: 5px;" />
 </div>
